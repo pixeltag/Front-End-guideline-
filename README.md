@@ -41,14 +41,15 @@
 ##### 11- Include one space after : for each declaration.
 ##### 12- Each declaration should appear on its own line for more accurate error reporting.
 ##### 13- Related property declarations should be grouped together following the order:
-#####       - Positioning
-#####       - Box model
-#####       - Typographic
-#####       - Visual
+#####            - Positioning
+#####            - Box model
+#####            - Typographic
+#####            - Visual
 #####   - Positioning comes first because it can remove an element from the normal flow of the document and override box model related styles. The box model comes next as it dictates a component's dimensions and placement.
 
 #####   - Everything else takes place inside the component or without impacting the previous two sections, and thus they come last.
-##### 14- 
+##### 14- Use bootstrap4 Media Query in responsive mode . 
+##### 15- Prefixed properties
 
 
 ## JavaScript & TypeScript 
